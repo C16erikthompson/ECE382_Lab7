@@ -24,11 +24,5 @@ Right =  getRight()
 
 Distances measured in inches.  Left and right distances measured from center of respective wheel.  Center measured from furthest point from the center on the front of the robot.
 
-![alt tag](http://i47.photobucket.com/albums/f189/erik_thompson2/Left_Sensor_zpsd5bbf637.png
- "TO-220 Config").
-  
- ![alt tag](http://i47.photobucket.com/albums/f189/erik_thompson2/Center_Sensor_zps186c6b77.png
- "TO-220 Config").
-  
- ![alt tag](http://i47.photobucket.com/albums/f189/erik_thompson2/Right_Sensor_zpsf349f54c.png
+![alt tag](http://i47.photobucket.com/albums/f189/erik_thompson2/Lab7picA_zps4649e9c1.png
  "TO-220 Config").
