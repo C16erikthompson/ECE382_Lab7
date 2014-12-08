@@ -1,6 +1,10 @@
 ECE382_Lab7
 ===========
 
+#Required Functionality
+
+http://vid47.photobucket.com/albums/f189/erik_thompson2/VID_20141208_002036_6051_zps6yvqg3eh.mp4
+
 #B Functionality
 
 The sensorLibrary.c and .h files control allow for conversion of an analog input into a digital output
