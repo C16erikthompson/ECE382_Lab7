@@ -1,5 +1,7 @@
 ECE382_Lab7
 ===========
+#General Approach
+To get my first sensor working, I used the Dr.Coulston's code from his website.  Given that code, I had an idea of how each of the sensors had to be wired and how to code for detecting a change in voltage.  From here, I was able to apply the detetion code to the other two sensors and pins to get the LED to go high when a high enough voltage was presented to its respective sensor.  The wiring was rather simple, connecting Pin 6 to left, Pin 7 to center, and Pin 5 to right, followed by supplying 5 volts to the sensors and connecting them to ground.  This build would not interefere with that of my Lab 6, allowig it to be utilized for the robot maze in Lab 8.
 
 #Required Functionality
 
